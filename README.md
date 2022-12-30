@@ -7,7 +7,9 @@ Better escape menu
 2. Drag and drop into your `resources` folder
 3. Ensure the resource
 
-```ensure as-escapemenu`
+```
+ensure as-escapemenu
+```
 
 ## Configuration
 ```lua
